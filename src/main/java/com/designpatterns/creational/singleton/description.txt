@@ -1,0 +1,2 @@
+Singleton Pattern:
+- Only create one instance of a class
