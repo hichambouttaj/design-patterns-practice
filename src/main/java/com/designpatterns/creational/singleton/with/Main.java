@@ -1,4 +1,4 @@
-package com.designpatterns.creational.singleton;
+package com.designpatterns.creational.singleton.with;
 
 
 public class Main {
