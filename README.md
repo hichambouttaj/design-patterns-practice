@@ -36,7 +36,7 @@ Currently, this repository covers the following design patterns:
     - [x] Proxy
     - [x] Decorator
     - [x] Adapter
-    - [ ] Facade
+    - [x] Facade
     - [ ] Flyweight
     - [ ] Bridge
     - [ ] Composite
