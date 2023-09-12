@@ -1,0 +1,2 @@
+Decorator Pattern:
+- Allow a user to add new functionality to an existing object without altering its structure (OCP).
